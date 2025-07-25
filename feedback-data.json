@@ -1,34 +1,18 @@
 [
   {
     "id": "mdgbphincubyswghyrd",
-    "name": "This the one",
+    "name": "Jacob",
     "email": "crce.9617.ce@gmail.com",
-    "message": "nice on",
+    "message": "I hope you find my feedback",
     "votes": 13,
     "createdAt": "2025-07-23T18:55:04.175Z"
   },
   {
     "id": "mdgbpwp8cm7mvkf1yqc",
-    "name": "whats up",
+    "name": "Jey",
     "email": "lewisjoshua2412@gmail.com",
-    "message": "yessss",
+    "message": "this wont work out",
     "votes": 2,
     "createdAt": "2025-07-23T18:55:23.852Z"
-  },
-  {
-    "id": "mdhksppx7ihi7y1yv6c",
-    "name": "main event",
-    "email": "lewisjoshua2412@gmail.com",
-    "message": "this is a new feed",
-    "votes": 0,
-    "createdAt": "2025-07-24T15:57:17.493Z"
-  },
-  {
-    "id": "mdhlegefjfk8roqbbfj",
-    "name": "make it better",
-    "email": "yes@gmail.com",
-    "message": "nffffffffffffffffffffffffff",
-    "votes": 0,
-    "createdAt": "2025-07-24T16:14:11.847Z"
   }
 ]
